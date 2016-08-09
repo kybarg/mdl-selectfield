@@ -1,14 +1,14 @@
 {
   "name": "mdl-selectfield",
-  "version": "0.0.3",
+  "version": "1.0.2",
   "homepage": "https://github.com/mebibou/mdl-selectfield",
   "authors": [
     "Guillaume Royer <guillaumeroyer.mail@gmail.com>"
   ],
   "description": "mdl-selectfield for material-design-lite",
   "main": [
-    "mdl-selectfield.min.css",
-    "mdl-selectfield.min.js"
+    "dist/mdl-selectfield.min.css",
+    "dist/mdl-selectfield.min.js"
   ],
   "keywords": [
     "material",
@@ -28,6 +28,6 @@
     "tests"
   ],
   "dependencies": {
-    "material-design-lite": "~1.0.4"
+    "material-design-lite": "~1.1.3"
   }
 }
